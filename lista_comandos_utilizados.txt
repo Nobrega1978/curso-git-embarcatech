@@ -1,0 +1,10 @@
+
+configurando no git , usuario nome e email:
+$ git config --global username "ubiracy"
+$ git config --global email "d@xxx@gmail.com"
+
+Visualizando o cadastramento no git
+$ git config --list
+
+
+git clone https://github.com/Nobrega1978/curso-git-embarcatech
